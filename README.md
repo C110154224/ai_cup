@@ -23,9 +23,7 @@
 ### 檔目錄說明
 
 ```
-├── 使用模型.ipynb
-├──4_AICUP_Pythia_160m」訊練模型.ipynb
-├──訓練集.tsv
+├──「4_AICUP_Pythia_fine_tune_STUDENT_VERSION」的副本_.ipynb
 ```
 
 ### 使用說明
