@@ -23,16 +23,16 @@
 ### 檔目錄說明
 
 ```
-├──「4_AICUP_Pythia_fine_tune_STUDENT_VERSION」的副本_.ipynb
+├──「4_AICUP_Pythia_fine_tune_STUDENT_VERSION」的副本_(1).ipynb
 ```
 
 ### 使用說明
 ```
-├──4_AICUP_Pythia_160m」訊練模型.ipynb
+├──「4_AICUP_Pythia_fine_tune_STUDENT_VERSION」的副本_(1)
 設定訓練集路徑
 設定模型存取路徑
 設定文本路徑
-設定在入模型路徑
+設定載入模型路徑
 從頭執行到尾就可得出解答
 ```
 ### 作者
